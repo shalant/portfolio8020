@@ -40,7 +40,7 @@ nav ul li {
   height: 6rem !important;
 }
 
-.navbar-nav > li > a.active,  .navbar-nav > li > a:focus {
+.navbar-nav > li > a.active,  .navbar-nav > li > a.active:focus {
   border-top: 0.1875 solid var(--primary-orange);
 
 }
@@ -48,3 +48,5 @@ nav ul li {
 .navbar-nav > li > a:hover {
   border-top: 0.1875 solid var(--primary-orange);
 }
+
+/**************header*****************/
